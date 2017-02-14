@@ -1,6 +1,6 @@
 #### Tutorial: Getting Started with Apollo
 
-In this tutorial, we'll learn how to get started with
+In this tutorial, we'll learn how to get started with Apollo.
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/getting-started-with-apollo)  
 
