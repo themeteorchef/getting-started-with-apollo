@@ -1,6 +1,6 @@
 #### Tutorial: Getting Started with Apollo
 
-In this tutorial, we'll learn how to get started with Apollo. We'll learn about the basics of GraphQL and see how to connect our React-based interface to a GraphQL server using Apollo. We'll see how to queries, mutatio
+In this tutorial, we'll learn how to get started with Apollo. We'll learn about the basics of GraphQL and see how to connect our React-based interface to a GraphQL server using Apollo. We'll see how to queries and mutations and also
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/getting-started-with-apollo)  
 
