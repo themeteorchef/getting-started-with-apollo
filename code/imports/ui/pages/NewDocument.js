@@ -1,10 +1,10 @@
 import React from 'react';
-import DocumentEditor from '../components/DocumentEditor.js';
+import { CreateDocument } from '../containers/DocumentEditor.js';
 
 const NewDocument = () => (
   <div className="NewDocument">
     <h4 className="page-header">New Document</h4>
-    <DocumentEditor />
+    <CreateDocument />
   </div>
 );
 
